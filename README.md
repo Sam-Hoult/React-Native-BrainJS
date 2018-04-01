@@ -1,5 +1,6 @@
 # React-Native-BrainJS
-
-To run:
 * npm install
-* react-native run-ios
+
+To run ios `react-native run-ios`
+
+To run android `react-native run-android`
